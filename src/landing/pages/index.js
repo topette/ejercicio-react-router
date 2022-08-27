@@ -1,0 +1,5 @@
+export {HtmlPage} from './HtmlPage'
+export {CssPage} from './CssPage'
+export {InicioPage} from './InicioPage'
+export {JsPage} from './JsPage'
+export {ReactPage} from './ReactPage'
